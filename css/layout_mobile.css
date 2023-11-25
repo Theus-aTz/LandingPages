@@ -4,7 +4,10 @@ body {
     font-family: 'bebas neune', sans-serif;
 }
 @media screen and (max-width: 768px) {
-    .menu-header {
+    .conteudo-social {
+        padding-top: 0.3%;
+    }
+        .menu-header {
         display: none;
         flex-direction: column;
         justify-content: space-around;
